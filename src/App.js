@@ -5,8 +5,8 @@ import React, { useState } from "react";
 // import Google from "./assets/icons/Google.png";
 // import Facebook from "./assets/icons/Facebook.png";
 // import In from "./assets/icons/In.png";
-import SignUp from "./components/SignUp";
-import Login from "./components/Login";
+import SignUp from "./components/SignUp/index.jsx";
+import Login from "./components/Login/index.jsx";
 
 function App() {
   // const [isToggled, setIstoogled] = useState(false)
